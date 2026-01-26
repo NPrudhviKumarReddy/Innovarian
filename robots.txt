@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.innovariantechsolutions.com.au/sitemap.xml
