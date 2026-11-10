@@ -3,3 +3,6 @@
 
 /* SEO service navigation: accessible and responsive */
 .seo-services .service-link-card{display:block;color:inherit;text-decoration:none;transition:transform .2s,box-shadow .2s}.seo-services .service-link-card:hover,.seo-services .service-link-card:focus-visible{transform:translateY(-3px);box-shadow:var(--shadow)}a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid var(--accent);outline-offset:3px}@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
+
+/* Accessibility and service content improvements */
+.service-detail{max-width:880px;margin:26px 0}.service-detail p{color:var(--muted)}.faq-item{max-width:900px;padding:17px 0;border-bottom:1px solid var(--line)}.faq-item summary{font-weight:800;cursor:pointer}.faq-item p{color:var(--muted);margin-bottom:0}.trust-row span,.pill{color:#1749a6}.eyebrow{color:#465366}[data-theme=dark] .eyebrow{color:#d1dae7}[data-theme=dark] .trust-row span,[data-theme=dark] .pill{color:#a9c6ff}.mini{color:#526173}[data-theme=dark] .mini{color:#b8c5d7}

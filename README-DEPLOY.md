@@ -1,19 +1,20 @@
-# Innovarian SEO website update
+# Innovarian SEO & accessibility update — V2
 
-This folder contains a static GitHub Pages-compatible website. Upload the files to the ROOT of your Innovarian repository (preserve exact filenames), or review in a separate branch first. Keep CNAME intact.
+Source: previously prepared Innovarian SEO website package. Changes are local and are not deployed.
 
-## Changes
-- Corrected all website contact references to info@innovariantechsolutions.com.au
-- Added eight distinct, indexable service landing pages with unique titles, descriptions, canonical URLs, social metadata and Service JSON-LD.
-- Added prominent internal links to those pages from homepage and services hub.
-- Updated sitemap.xml and homepage/service metadata.
-- Made contact form wording truthful: it still opens an email application; it does NOT directly transmit enquiries.
-- Clarified that sample case studies are illustrative rather than verified client outcomes.
-- Added accessibility focus and reduced-motion CSS.
+## Improvements
+- Expanded all eight service pages with unique, specific service information and FAQs.
+- Added contextual links between related services.
+- Added FAQPage structured data (do not expect FAQ rich results).
+- Added main landmarks where absent, image dimensions, stronger text contrast and a simple llms.txt.
+- Preserved existing static GitHub Pages architecture and email address.
 
-## Before deployment
-- Test links, layout and contact email on desktop/mobile.
-- Set up a secure hosted form service with spam protection and consent/privacy notice before claiming direct enquiry submission.
-- Validate JSON-LD and review Search Console indexing.
-- Verify any claims about technical delivery and service scope.
-- Search rankings are never guaranteed; measure leads and organic traffic.
+## Important
+- Contact form still uses mailto and does not transmit leads automatically. A hosted form provider must be configured with the owner's account before switching it to direct submission.
+- Hosting cache headers and security headers are not fully controllable from static GitHub Pages files.
+- Lighthouse results are from the user's previous deployment; re-test after publishing.
+- Validate all pages and schema; check mobile contrast and forms manually.
+- Submit sitemap in Google Search Console; rankings cannot be guaranteed.
+
+## Deploy
+Review changes, then upload the contents of this folder to the root of the GitHub Pages repository, preserving CNAME.

@@ -1,0 +1,19 @@
+# Innovarian Tech Solutions
+
+Website: https://www.innovariantechsolutions.com.au/
+Location: Melbourne, Victoria, Australia. Services available Australia-wide.
+Contact: info@innovariantechsolutions.com.au
+
+Innovarian provides web design and development, website maintenance, custom software, workflow automation, Power BI analytics, IoT and embedded systems, electronics prototyping, and technical feasibility research.
+
+## Services
+- [Website Design & Development](https://www.innovariantechsolutions.com.au/website-design-development.html)
+- [Website Maintenance & Support](https://www.innovariantechsolutions.com.au/website-maintenance.html)
+- [Custom Software Development](https://www.innovariantechsolutions.com.au/custom-software.html)
+- [AI & Workflow Automation](https://www.innovariantechsolutions.com.au/ai-automation.html)
+- [Power BI & Business Analytics](https://www.innovariantechsolutions.com.au/power-bi-analytics.html)
+- [IoT & Embedded Systems](https://www.innovariantechsolutions.com.au/iot-development.html)
+- [Electronics Prototyping](https://www.innovariantechsolutions.com.au/electronics-prototyping.html)
+- [Product Research & Technical Feasibility](https://www.innovariantechsolutions.com.au/product-research.html)
+
+This file is an informational index, not a substitute for the main website or sitemap.
